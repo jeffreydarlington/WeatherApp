@@ -45,6 +45,8 @@ The UI is styled using `/CSS/style.css`, which includes:
 - Responsive styling for mobile-friendly usage.
 - Hover effects for better user interaction.
 
+## Screen Shot
+
 ## Credits
 - Developed by [jeffreydarlington]
 - Weather data provided by OpenWeatherMap
