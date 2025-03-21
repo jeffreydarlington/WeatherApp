@@ -46,7 +46,7 @@ The UI is styled using `/CSS/style.css`, which includes:
 - Hover effects for better user interaction.
 
 ## Screen Shot
-
+Images/Screenshot 2025-03-20 213851.png
 ## Credits
 - Developed by [jeffreydarlington]
 - Weather data provided by OpenWeatherMap
