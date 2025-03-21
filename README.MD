@@ -46,6 +46,7 @@ The UI is styled using `/CSS/style.css`, which includes:
 - Hover effects for better user interaction.
 
 ## Screen Shot
+![Weather App Screenshot](Images/Screenshot%202025-03-20%20213851.png)
 
 ## Credits
 - Developed by [jeffreydarlington]
