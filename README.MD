@@ -46,8 +46,12 @@ The UI is styled using `/CSS/style.css`, which includes:
 - Hover effects for better user interaction.
 
 ## Screen Shot
-![Weather App Screenshot](Images/Screenshot%202025-03-20%20213851.png)
+<<<<<<< HEAD
+![Weather App Screenshot](Images/weatherApp.png)
 
+=======
+Images/Screenshot 2025-03-20 213851.png
+>>>>>>> 86281d24b6a1e20b03c374d9b2ef8e1994775a00
 ## Credits
 - Developed by [jeffreydarlington]
 - Weather data provided by OpenWeatherMap
